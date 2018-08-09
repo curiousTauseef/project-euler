@@ -1,4 +1,3 @@
-from utils import generate_primes
 import numpy as np
 
 def solve(grid):
